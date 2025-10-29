@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>Иванов Иван</name>
+        <grades>
+            <grade>5</grade>
+            <grade>4</grade>
+            <grade>3</grade>
+        </grades>
+    </student>
+    <student id="2">
+        <name>Петров Петр</name>
+        <grades>
+            <grade>4</grade>
+            <grade>5</grade>
+            <grade>5</grade>
+        </grades>
+    </student>
+    <student id="3">
+        <name>Сидоров Сидор</name>
+        <grades>
+            <grade>3</grade>
+            <grade>3</grade>
+            <grade>4</grade>
+        </grades>
+    </student>
+</students>
